@@ -1,3 +1,4 @@
+
 # fartakshargh-website
  
 # وبسایت رسمی آموزشگاه فنی و حرفه‌ای فرتاک شرق
@@ -16,4 +17,4 @@
 - WooCommerce 
 - JetEngine
 
-<img width="1852" height="9073" alt="1" src="https://github.com/user-attachments/assets/2341561e-dfe5-4a2a-ba70-dd354bc54962" />
+<img width="1852" height="2660" alt="1" src="https://github.com/user-attachments/assets/797ef28d-dd4d-4e63-a300-9852d5d72489" />
